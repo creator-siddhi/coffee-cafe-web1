@@ -9,8 +9,7 @@ A beautiful, responsive, and interactive frontend website for a modern cafe. Bui
 Here is a glimpse of the live website:
 
 ### Desktop View
-![Cafe Website Desktop Home](<img width="1920" height="5922" alt="screencapture-127-0-0-1-5500-Coffee-html-2026-05-31-05_32_36" src="https://github.com/user-attachments/assets/3850a026-546a-40a5-83e3-1ee3f64da9a7" />
-)
+![Cafe Website Desktop Home](<img width="1920" height="5922" alt="screencapture-127-0-0-1-5500-Coffee-html-2026-05-31-05_32_36" src="https://github.com/user-attachments/assets/6bf7e5a0-72e5-4911-8659-4e9a35b9b00b" />)
 
 ---
 
